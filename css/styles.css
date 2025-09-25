@@ -1,0 +1,28 @@
+body{
+    
+     background-color: rgb(148, 144, 138);
+     color:white;
+}
+    
+h1,h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+a{
+    color:rgb(110, 79, 30);
+        
+}
+img{
+    max-width:500px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    
+    
+}
+.item a{
+   color:white;
+}
